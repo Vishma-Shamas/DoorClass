@@ -21,6 +21,11 @@ Door::Door()
 	isLocked = false;
 }
 
+Door::openDoor()
+{
+	cout << "Door is opened";
+}
+
 int main() {
 	return 0;
 }
