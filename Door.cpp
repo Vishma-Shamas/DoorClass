@@ -17,6 +17,11 @@ public:
 
 Door::closeDoor()
 {
+
+}
+
+Door::lockDoor
+{
 	
 }
 
