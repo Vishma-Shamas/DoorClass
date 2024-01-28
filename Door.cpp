@@ -20,6 +20,10 @@ Door::isDoorLocked
 
 }
 
+Door::isDoorOpen(
+
+)
+
 int main() {
 	return 0;
 }
