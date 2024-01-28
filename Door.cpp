@@ -15,6 +15,11 @@ public:
 	bool isDoorLocked() const;
 };
 
+Door::isDoorLocked()
+{
+	isLocked=false;
+}
+
 int main() {
 	return 0;
 }
