@@ -17,17 +17,7 @@ public:
 
 Door::closeDoor()
 {
-	cout << "Door is closed";
-}
-
-Door::lockDoor()
-{
-	cout <<"Door is locked";
-}
-
-Door::unlock()
-{
-	coit << "Door is unlcoked";
+	
 }
 
 int main() {
