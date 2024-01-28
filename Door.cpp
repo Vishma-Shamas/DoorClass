@@ -15,17 +15,6 @@ public:
 	bool isDoorLocked() const;
 };
 
-Door::Door()
-{
-	isOpen = false;
-	isLocked = false;
-}
-
-Door::openDoor()
-{
-	cout << "Door is opened";
-}
-
 int main() {
 	return 0;
 }
