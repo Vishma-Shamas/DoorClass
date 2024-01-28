@@ -20,6 +20,11 @@ P
 
 }
 
+Door::openD
+{
+
+}
+
 int main() {
 	return 0;
 }
